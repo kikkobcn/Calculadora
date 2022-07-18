@@ -1,0 +1,6 @@
+.calculadora { border: 3px blue ridge; width: 250px;text-align: center;
+    background-color: #f6f8d8; }
+
+.calc [type=button] { width: 35px; padding: 5px; }
+
+.calc-button-largo { color: red; width: 120px; }
